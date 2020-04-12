@@ -1,0 +1,317 @@
+[11-Apr-2020 10:39:14 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (15/04/2020) at position 0 (1): Unexpected character in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php:4
+Stack trace:
+#0 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php(4): DateTime->__construct('15/04/2020')
+#1 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(725): require('C:\\Users\\Karan ...')
+#2 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(672): load_template('C:\\Users\\Karan ...', false)
+#3 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#4 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\front-page.php in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php on line 4
+[11-Apr-2020 10:43:01 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (15/04/2020 12:00 am) at position 0 (1): Unexpected character in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php:4
+Stack trace:
+#0 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php(4): DateTime->__construct('15/04/2020 12:0...')
+#1 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(725): require('C:\\Users\\Karan ...')
+#2 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(672): load_template('C:\\Users\\Karan ...', false)
+#3 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#4 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-the in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php on line 4
+[11-Apr-2020 10:43:27 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (15/04/2020) at position 0 (1): Unexpected character in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php:4
+Stack trace:
+#0 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php(4): DateTime->__construct('15/04/2020')
+#1 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(725): require('C:\\Users\\Karan ...')
+#2 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(672): load_template('C:\\Users\\Karan ...', false)
+#3 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#4 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\front-page.php in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php on line 4
+[11-Apr-2020 10:46:52 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1515/0404/2020) at position 4 (/): Unexpected character in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php:4
+Stack trace:
+#0 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php(4): DateTime->__construct('1515/0404/2020')
+#1 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(725): require('C:\\Users\\Karan ...')
+#2 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(672): load_template('C:\\Users\\Karan ...', false)
+#3 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#4 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\front- in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php on line 4
+[11-Apr-2020 10:49:52 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1515/0404/2020) at position 4 (/): Unexpected character in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php:4
+Stack trace:
+#0 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php(4): DateTime->__construct('1515/0404/2020')
+#1 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(725): require('C:\\Users\\Karan ...')
+#2 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(672): load_template('C:\\Users\\Karan ...', false)
+#3 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#4 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\front- in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php on line 4
+[11-Apr-2020 10:50:21 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (15/04/2020) at position 0 (1): Unexpected character in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php:4
+Stack trace:
+#0 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php(4): DateTime->__construct('15/04/2020')
+#1 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(725): require('C:\\Users\\Karan ...')
+#2 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(672): load_template('C:\\Users\\Karan ...', false)
+#3 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#4 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\front-page.php in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php on line 4
+[11-Apr-2020 10:51:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Date' not found in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php:4
+Stack trace:
+#0 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(725): require()
+#1 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(672): load_template('C:\\Users\\Karan ...', false)
+#2 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\front-page.php(38): get_template_part('template-parts/...', 'event')
+#4 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Karan ...')
+#5 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-blog-header.php(19): require_once in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php on line 4
+[11-Apr-2020 10:51:47 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (15/04/2020) at position 0 (1): Unexpected character in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php:4
+Stack trace:
+#0 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php(4): DateTime->__construct('15/04/2020')
+#1 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(725): require('C:\\Users\\Karan ...')
+#2 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(672): load_template('C:\\Users\\Karan ...', false)
+#3 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#4 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\front-page.php in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php on line 4
+[11-Apr-2020 10:58:53 UTC] PHP Fatal error:  Uncaught TypeError: DateTime::__construct() expects parameter 2 to be DateTimeZone, string given in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php:4
+Stack trace:
+#0 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php(4): DateTime->__construct('d/m/Y', '15/04/2020')
+#1 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(725): require('C:\\Users\\Karan ...')
+#2 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(672): load_template('C:\\Users\\Karan ...', false)
+#3 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#4 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\front-page.php(38): get_template_p in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php on line 4
+[11-Apr-2020 12:16:29 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (15/04/2020) at position 0 (1): Unexpected character in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php:4
+Stack trace:
+#0 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php(4): DateTime->__construct('15/04/2020')
+#1 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(725): require('C:\\Users\\Karan ...')
+#2 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(672): load_template('C:\\Users\\Karan ...', false)
+#3 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#4 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\front-page.php in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php on line 4
+[11-Apr-2020 12:17:32 UTC] PHP Warning:  DateTime::createFromFormat() expects at least 2 parameters, 1 given in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php on line 4
+[11-Apr-2020 12:17:32 UTC] PHP Stack trace:
+[11-Apr-2020 12:17:32 UTC] PHP   1. {main}() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\index.php:0
+[11-Apr-2020 12:17:32 UTC] PHP   2. require() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\index.php:17
+[11-Apr-2020 12:17:32 UTC] PHP   3. require_once() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-blog-header.php:19
+[11-Apr-2020 12:17:32 UTC] PHP   4. include() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template-loader.php:106
+[11-Apr-2020 12:17:32 UTC] PHP   5. get_template_part() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\front-page.php:38
+[11-Apr-2020 12:17:32 UTC] PHP   6. locate_template() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\general-template.php:168
+[11-Apr-2020 12:17:32 UTC] PHP   7. load_template() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php:672
+[11-Apr-2020 12:17:32 UTC] PHP   8. require() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php:725
+[11-Apr-2020 12:17:32 UTC] PHP   9. DateTime::createFromFormat() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php:4
+[11-Apr-2020 12:17:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php:5
+Stack trace:
+#0 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(725): require()
+#1 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(672): load_template('C:\\Users\\Karan ...', false)
+#2 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\front-page.php(38): get_template_part('template-parts/...', 'event')
+#4 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Karan ...')
+#5 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-blog-header.p in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php on line 5
+[11-Apr-2020 12:17:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php:5
+Stack trace:
+#0 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(725): require()
+#1 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(672): load_template('C:\\Users\\Karan ...', false)
+#2 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\front-page.php(38): get_template_part('template-parts/...', 'event')
+#4 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Karan ...')
+#5 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-blog-header.p in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php on line 5
+[11-Apr-2020 12:18:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php:5
+Stack trace:
+#0 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(725): require()
+#1 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(672): load_template('C:\\Users\\Karan ...', false)
+#2 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\front-page.php(38): get_template_part('template-parts/...', 'event')
+#4 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Karan ...')
+#5 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-blog-header.p in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php on line 5
+[11-Apr-2020 12:18:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php:7
+Stack trace:
+#0 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(725): require()
+#1 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(672): load_template('C:\\Users\\Karan ...', false)
+#2 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\front-page.php(38): get_template_part('template-parts/...', 'event')
+#4 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Karan ...')
+#5 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-blog-header.p in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php on line 7
+[11-Apr-2020 12:18:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php:7
+Stack trace:
+#0 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(725): require()
+#1 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(672): load_template('C:\\Users\\Karan ...', false)
+#2 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\front-page.php(38): get_template_part('template-parts/...', 'event')
+#4 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Karan ...')
+#5 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-blog-header.p in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php on line 7
+[11-Apr-2020 12:18:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on bool in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php:5
+Stack trace:
+#0 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(725): require()
+#1 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(672): load_template('C:\\Users\\Karan ...', false)
+#2 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\front-page.php(38): get_template_part('template-parts/...', 'event')
+#4 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Karan ...')
+#5 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-blog-header.p in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php on line 5
+[11-Apr-2020 12:20:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on null in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php:9
+Stack trace:
+#0 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(725): require()
+#1 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(672): load_template('C:\\Users\\Karan ...', false)
+#2 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\front-page.php(38): get_template_part('template-parts/...', 'event')
+#4 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Karan ...')
+#5 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-blog-header.p in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php on line 9
+[11-Apr-2020 12:21:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on null in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php:9
+Stack trace:
+#0 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(725): require()
+#1 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(672): load_template('C:\\Users\\Karan ...', false)
+#2 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\front-page.php(38): get_template_part('template-parts/...', 'event')
+#4 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Karan ...')
+#5 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-blog-header.p in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php on line 9
+[11-Apr-2020 12:21:31 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (15/04/2020) at position 0 (1): Unexpected character in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php:4
+Stack trace:
+#0 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php(4): DateTime->__construct('15/04/2020')
+#1 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(725): require('C:\\Users\\Karan ...')
+#2 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(672): load_template('C:\\Users\\Karan ...', false)
+#3 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#4 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\front-page.php in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php on line 4
+[11-Apr-2020 12:21:40 UTC] PHP Fatal error:  Uncaught TypeError: DateTime::__construct() expects parameter 2 to be DateTimeZone, string given in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php:4
+Stack trace:
+#0 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php(4): DateTime->__construct('d-m-y', '15/04/2020')
+#1 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(725): require('C:\\Users\\Karan ...')
+#2 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(672): load_template('C:\\Users\\Karan ...', false)
+#3 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#4 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\front-page.php(38): get_template_p in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php on line 4
+[11-Apr-2020 12:21:47 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (15/04/2020) at position 0 (1): Unexpected character in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php:4
+Stack trace:
+#0 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php(4): DateTime->__construct('15/04/2020')
+#1 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(725): require('C:\\Users\\Karan ...')
+#2 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(672): load_template('C:\\Users\\Karan ...', false)
+#3 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#4 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\front-page.php in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php on line 4
+[11-Apr-2020 12:22:05 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (15/04/2020) at position 0 (1): Unexpected character in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php:5
+Stack trace:
+#0 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php(5): DateTime->__construct('15/04/2020')
+#1 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(725): require('C:\\Users\\Karan ...')
+#2 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(672): load_template('C:\\Users\\Karan ...', false)
+#3 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#4 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\front-page.php in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php on line 5
+[11-Apr-2020 12:22:56 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1586908800) at position 8 (0): Unexpected character in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php:4
+Stack trace:
+#0 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php(4): DateTime->__construct('1586908800')
+#1 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(725): require('C:\\Users\\Karan ...')
+#2 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(672): load_template('C:\\Users\\Karan ...', false)
+#3 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#4 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\archive-event. in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php on line 4
+[11-Apr-2020 12:23:48 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1586908800) at position 8 (0): Unexpected character in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php:5
+Stack trace:
+#0 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php(5): DateTime->__construct('1586908800')
+#1 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(725): require('C:\\Users\\Karan ...')
+#2 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(672): load_template('C:\\Users\\Karan ...', false)
+#3 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#4 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\archive-event. in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php on line 5
+[11-Apr-2020 12:30:15 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1586908800) at position 8 (0): Unexpected character in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php:5
+Stack trace:
+#0 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php(5): DateTime->__construct('1586908800')
+#1 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(725): require('C:\\Users\\Karan ...')
+#2 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(672): load_template('C:\\Users\\Karan ...', false)
+#3 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#4 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\archive-event. in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php on line 5
+[11-Apr-2020 12:31:11 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1586908800) at position 8 (0): Unexpected character in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php:5
+Stack trace:
+#0 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php(5): DateTime->__construct('1586908800')
+#1 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(725): require('C:\\Users\\Karan ...')
+#2 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(672): load_template('C:\\Users\\Karan ...', false)
+#3 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#4 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\archive-event. in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php on line 5
+[11-Apr-2020 12:32:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function d\m\y() in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php:5
+Stack trace:
+#0 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(725): require()
+#1 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(672): load_template('C:\\Users\\Karan ...', false)
+#2 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\front-page.php(38): get_template_part('template-parts/...', 'event')
+#4 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Karan ...')
+#5 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-blog-header.php(19):  in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php on line 5
+[11-Apr-2020 12:32:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function d/m/y() in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php:5
+Stack trace:
+#0 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(725): require()
+#1 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(672): load_template('C:\\Users\\Karan ...', false)
+#2 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\front-page.php(38): get_template_part('template-parts/...', 'event')
+#4 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Karan ...')
+#5 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-blog-header.php(19):  in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php on line 5
+[11-Apr-2020 12:32:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function d-m-y() in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php:5
+Stack trace:
+#0 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(725): require()
+#1 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(672): load_template('C:\\Users\\Karan ...', false)
+#2 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#3 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\front-page.php(38): get_template_part('template-parts/...', 'event')
+#4 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Karan ...')
+#5 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-blog-header.php(19):  in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php on line 5
+[11-Apr-2020 12:32:30 UTC] PHP Fatal error:  Uncaught TypeError: DateTime::__construct() expects parameter 2 to be DateTimeZone, string given in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php:5
+Stack trace:
+#0 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php(5): DateTime->__construct('d-m-y', '15/04/2020')
+#1 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(725): require('C:\\Users\\Karan ...')
+#2 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(672): load_template('C:\\Users\\Karan ...', false)
+#3 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#4 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\front-page.php(38): get_template_p in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php on line 5
+[11-Apr-2020 12:32:35 UTC] PHP Fatal error:  Uncaught TypeError: DateTime::__construct() expects parameter 2 to be DateTimeZone, string given in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php:5
+Stack trace:
+#0 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php(5): DateTime->__construct('d-m-y', '15/04/2020')
+#1 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(725): require('C:\\Users\\Karan ...')
+#2 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(672): load_template('C:\\Users\\Karan ...', false)
+#3 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#4 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\front-page.php(38): get_template_p in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php on line 5
+[11-Apr-2020 12:33:07 UTC] PHP Catchable fatal error:  Object of class DateTime could not be converted to string in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php on line 6
+[11-Apr-2020 12:33:07 UTC] PHP Stack trace:
+[11-Apr-2020 12:33:07 UTC] PHP   1. {main}() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\index.php:0
+[11-Apr-2020 12:33:07 UTC] PHP   2. require() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\index.php:17
+[11-Apr-2020 12:33:07 UTC] PHP   3. require_once() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-blog-header.php:19
+[11-Apr-2020 12:33:07 UTC] PHP   4. include() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template-loader.php:106
+[11-Apr-2020 12:33:07 UTC] PHP   5. get_template_part() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\front-page.php:38
+[11-Apr-2020 12:33:07 UTC] PHP   6. locate_template() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\general-template.php:168
+[11-Apr-2020 12:33:07 UTC] PHP   7. load_template() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php:672
+[11-Apr-2020 12:33:07 UTC] PHP   8. require() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php:725
+[11-Apr-2020 12:33:44 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1586908800) at position 8 (0): Unexpected character in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php:5
+Stack trace:
+#0 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php(5): DateTime->__construct('1586908800')
+#1 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(725): require('C:\\Users\\Karan ...')
+#2 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(672): load_template('C:\\Users\\Karan ...', false)
+#3 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#4 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\archive-event. in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php on line 5
+[11-Apr-2020 12:33:54 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (1586908800) at position 8 (0): Unexpected character in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php:5
+Stack trace:
+#0 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php(5): DateTime->__construct('1586908800')
+#1 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(725): require('C:\\Users\\Karan ...')
+#2 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(672): load_template('C:\\Users\\Karan ...', false)
+#3 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#4 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\archive-event. in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php on line 5
+[11-Apr-2020 12:34:10 UTC] PHP Fatal error:  Uncaught TypeError: DateTime::__construct() expects parameter 2 to be DateTimeZone, int given in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php:5
+Stack trace:
+#0 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php(5): DateTime->__construct('y-m-d', 1586908800)
+#1 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(725): require('C:\\Users\\Karan ...')
+#2 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\template.php(672): load_template('C:\\Users\\Karan ...', false)
+#3 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\general-template.php(168): locate_template(Array, true, false)
+#4 C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\archive-event.php(15): get_template_par in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\template-parts\content-event.php on line 5
+[11-Apr-2020 12:50:56 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\themes\brightminds-university-theme\single-program.php on line 104
+[11-Apr-2020 14:54:26 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\plugins\members\members.php on line 446
+[11-Apr-2020 14:54:26 UTC] PHP Stack trace:
+[11-Apr-2020 14:54:26 UTC] PHP   1. {main}() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-admin\post-new.php:0
+[11-Apr-2020 14:54:26 UTC] PHP   2. require() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-admin\post-new.php:72
+[11-Apr-2020 14:54:26 UTC] PHP   3. do_action() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-admin\edit-form-blocks.php:379
+[11-Apr-2020 14:54:26 UTC] PHP   4. WP_Hook->do_action() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\plugin.php:478
+[11-Apr-2020 14:54:26 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\class-wp-hook.php:311
+[11-Apr-2020 14:54:26 UTC] PHP   6. Members_Plugin->block_editor_assets() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\class-wp-hook.php:287
+[11-Apr-2020 14:54:26 UTC] PHP   7. in_array() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\plugins\members\members.php:446
+[11-Apr-2020 14:55:43 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\plugins\members\members.php on line 446
+[11-Apr-2020 14:55:43 UTC] PHP Stack trace:
+[11-Apr-2020 14:55:43 UTC] PHP   1. {main}() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-admin\post-new.php:0
+[11-Apr-2020 14:55:43 UTC] PHP   2. require() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-admin\post-new.php:72
+[11-Apr-2020 14:55:43 UTC] PHP   3. do_action() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-admin\edit-form-blocks.php:379
+[11-Apr-2020 14:55:43 UTC] PHP   4. WP_Hook->do_action() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\plugin.php:478
+[11-Apr-2020 14:55:43 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\class-wp-hook.php:311
+[11-Apr-2020 14:55:43 UTC] PHP   6. Members_Plugin->block_editor_assets() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\class-wp-hook.php:287
+[11-Apr-2020 14:55:43 UTC] PHP   7. in_array() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\plugins\members\members.php:446
+[11-Apr-2020 14:55:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\plugins\members\members.php on line 446
+[11-Apr-2020 14:55:52 UTC] PHP Stack trace:
+[11-Apr-2020 14:55:52 UTC] PHP   1. {main}() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-admin\post-new.php:0
+[11-Apr-2020 14:55:52 UTC] PHP   2. require() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-admin\post-new.php:72
+[11-Apr-2020 14:55:52 UTC] PHP   3. do_action() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-admin\edit-form-blocks.php:379
+[11-Apr-2020 14:55:52 UTC] PHP   4. WP_Hook->do_action() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\plugin.php:478
+[11-Apr-2020 14:55:52 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\class-wp-hook.php:311
+[11-Apr-2020 14:55:52 UTC] PHP   6. Members_Plugin->block_editor_assets() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\class-wp-hook.php:287
+[11-Apr-2020 14:55:52 UTC] PHP   7. in_array() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\plugins\members\members.php:446
+[11-Apr-2020 14:56:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\plugins\members\members.php on line 446
+[11-Apr-2020 14:56:52 UTC] PHP Stack trace:
+[11-Apr-2020 14:56:52 UTC] PHP   1. {main}() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-admin\post-new.php:0
+[11-Apr-2020 14:56:52 UTC] PHP   2. require() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-admin\post-new.php:72
+[11-Apr-2020 14:56:52 UTC] PHP   3. do_action() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-admin\edit-form-blocks.php:379
+[11-Apr-2020 14:56:52 UTC] PHP   4. WP_Hook->do_action() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\plugin.php:478
+[11-Apr-2020 14:56:52 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\class-wp-hook.php:311
+[11-Apr-2020 14:56:52 UTC] PHP   6. Members_Plugin->block_editor_assets() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\class-wp-hook.php:287
+[11-Apr-2020 14:56:52 UTC] PHP   7. in_array() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\plugins\members\members.php:446
+[11-Apr-2020 14:58:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\plugins\members\members.php on line 446
+[11-Apr-2020 14:58:12 UTC] PHP Stack trace:
+[11-Apr-2020 14:58:12 UTC] PHP   1. {main}() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-admin\post-new.php:0
+[11-Apr-2020 14:58:12 UTC] PHP   2. require() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-admin\post-new.php:72
+[11-Apr-2020 14:58:12 UTC] PHP   3. do_action() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-admin\edit-form-blocks.php:379
+[11-Apr-2020 14:58:12 UTC] PHP   4. WP_Hook->do_action() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\plugin.php:478
+[11-Apr-2020 14:58:12 UTC] PHP   5. WP_Hook->apply_filters() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\class-wp-hook.php:311
+[11-Apr-2020 14:58:12 UTC] PHP   6. Members_Plugin->block_editor_assets() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-includes\class-wp-hook.php:287
+[11-Apr-2020 14:58:12 UTC] PHP   7. in_array() C:\Users\Karan Shah\Local Sites\brightmindsuniversity\app\public\wp-content\plugins\members\members.php:446
