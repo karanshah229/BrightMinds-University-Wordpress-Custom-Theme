@@ -6,14 +6,14 @@ Visit [Bright Minds University](https://bright-minds-university.000webhostapp.co
 
 Screenshots
 
-[]: https://github.com/karanshah229/BrightMinds-University-Wordpress-Custom-Theme/tree/master/wp-content/themes/brightminds-university-theme/screenshots/index_page.png "Home"
-[]: https://github.com/karanshah229/BrightMinds-University-Wordpress-Custom-Theme/tree/master/wp-content/themes/brightminds-university-theme/screenshots/blog.png "Blog"
-[]: https://github.com/karanshah229/BrightMinds-University-Wordpress-Custom-Theme/tree/master/wp-content/themes/brightminds-university-theme/screenshots/blog_detail.png "Blog Detail"
-[]: https://github.com/karanshah229/BrightMinds-University-Wordpress-Custom-Theme/tree/master/wp-content/themes/brightminds-university-theme/screenshots/campuses.png "Campuses"
-[]: https://github.com/karanshah229/BrightMinds-University-Wordpress-Custom-Theme/tree/master/wp-content/themes/brightminds-university-theme/screenshots/events.png "Events"
-[]: https://github.com/karanshah229/BrightMinds-University-Wordpress-Custom-Theme/tree/master/wp-content/themes/brightminds-university-theme/screenshots/notes_feature.png "Notes Feature"
-[]: https://github.com/karanshah229/BrightMinds-University-Wordpress-Custom-Theme/tree/master/wp-content/themes/brightminds-university-theme/screenshots/professor.png "Professor"
-[]: https://github.com/karanshah229/BrightMinds-University-Wordpress-Custom-Theme/tree/master/wp-content/themes/brightminds-university-theme/screenshots/programs.png "Programs"
-[]: https://github.com/karanshah229/BrightMinds-University-Wordpress-Custom-Theme/tree/master/wp-content/themes/brightminds-university-theme/screenshots/about_us.png "About Us"
-[]: https://github.com/karanshah229/BrightMinds-University-Wordpress-Custom-Theme/tree/master/wp-content/themes/brightminds-university-theme/screenshots/event_details.png "Event Details"
-[]: https://github.com/karanshah229/BrightMinds-University-Wordpress-Custom-Theme/tree/master/wp-content/themes/brightminds-university-theme/screenshots/program_detail.png "Program Detail"
+!["Home"](https://github.com/karanshah229/BrightMinds-University-Wordpress-Custom-Theme/tree/master/wp-content/themes/brightminds-university-theme/screenshots/index_page.png)
+!["Blog"](https://github.com/karanshah229/BrightMinds-University-Wordpress-Custom-Theme/tree/master/wp-content/themes/brightminds-university-theme/screenshots/blog.png)
+!["Blog Detail"](https://github.com/karanshah229/BrightMinds-University-Wordpress-Custom-Theme/tree/master/wp-content/themes/brightminds-university-theme/screenshots/blog_detail.png)
+!["Campuses"](https://github.com/karanshah229/BrightMinds-University-Wordpress-Custom-Theme/tree/master/wp-content/themes/brightminds-university-theme/screenshots/campuses.png )
+!["Events"](https://github.com/karanshah229/BrightMinds-University-Wordpress-Custom-Theme/tree/master/wp-content/themes/brightminds-university-theme/screenshots/events.png)
+!["Notes Feature"](https://github.com/karanshah229/BrightMinds-University-Wordpress-Custom-Theme/tree/master/wp-content/themes/brightminds-university-theme/screenshots/notes_feature.png)
+!["Professor"](https://github.com/karanshah229/BrightMinds-University-Wordpress-Custom-Theme/tree/master/wp-content/themes/brightminds-university-theme/screenshots/professor.png)
+!["Programs"](https://github.com/karanshah229/BrightMinds-University-Wordpress-Custom-Theme/tree/master/wp-content/themes/brightminds-university-theme/screenshots/programs.png)
+!["About Us"](https://github.com/karanshah229/BrightMinds-University-Wordpress-Custom-Theme/tree/master/wp-content/themes/brightminds-university-theme/screenshots/about_us.png)
+!["Event Details"](https://github.com/karanshah229/BrightMinds-University-Wordpress-Custom-Theme/tree/master/wp-content/themes/brightminds-university-theme/screenshots/event_details.png)
+!["Program Detail"](https://github.com/karanshah229/BrightMinds-University-Wordpress-Custom-Theme/tree/master/wp-content/themes/brightminds-university-theme/screenshots/program_detail.png)
